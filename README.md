@@ -2,7 +2,7 @@
   <img alt="GIF" src="https://user-images.githubusercontent.com/70419764/178626489-c8a1827b-19f0-40f5-9827-9f26f4e7bbf2.gif" width="100%" height="100%" />
   
   
-Hi, I'm [Eileen]() a computer science student  - Perú. I'm a Web3 and New Space enthusiast .
+Hi, I'm [Eileen]() a computer science student  - Perú. I'm a Open Source enthusiast .
 
 - 💼 Contact me if you have same interesting!, [email](mailto:eileen.apaza@ucsp.edu.pe) :)
 - 💬 ask me about anything, i am happy to help;

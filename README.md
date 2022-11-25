@@ -16,7 +16,6 @@ These are some of the major technologies that I use or have worked on in the pas
 **Programming Languages**
 
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
-![Haskell](https://img.shields.io/static/v1?style=for-the-badge&message=Haskell&color=5D4F85&logo=Haskell&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![Choreographe](https://img.shields.io/badge/-choreographe-blue)

@@ -19,6 +19,7 @@ These are some of the major technologies that I use or have worked on in the pas
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![Choreographe](https://img.shields.io/badge/-choreographe-blue)
+![Octave](https://img.shields.io/badge/-octave-orange)
 
 
 **Libraries and Frameworks**
